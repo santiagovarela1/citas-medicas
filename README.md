@@ -20,4 +20,7 @@ Abrir http://localhost:8080/citas.html
 - POST /api/citas -> 201 (creada), 409 (conflicto de horario o cupo), 400 (entrada inválida).
 
 ## Integrantes
-(completar)
+Santiago Varela Mejía
+Camilo Andrés Vega Torres
+Izaid Daniel Castro Suarez
+Jesús Alberto Villalba Manjarrez
